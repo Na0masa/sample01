@@ -1,0 +1,39 @@
+#banmen td{
+    text-shadow: 7px 7px 7px #777777;
+    width: 140px;
+    height: 140px;
+    font-size: 90px;
+    border: 5px solid rgb(14, 94, 126);
+    text-align:center;
+    background-color: rgb(24, 211, 24);
+}
+
+table{
+    margin: auto;
+    text-align: center;
+}
+
+
+h1{
+    padding: 10px 0px 10px 0px;
+    border: 13px ridge #22257c;
+    margin: 20px 250px 0px 250px;
+    background-color: azure;
+    text-align: center;
+    color: rgb(4, 7, 189);
+}
+
+.button{
+    width: 130px;
+    height: 50px;
+    margin: 20px 0px 0px 0px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+body{
+    background-color: rgb(102, 190, 231);
+    margin: auto;
+    text-align: center;
+}
